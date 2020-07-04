@@ -3,3 +3,6 @@ For uploading photos that can be provided as the source to our img tag
 
 2. http://crop-circle.imageonline.co/
 Cropping images into circles
+
+3. https://colorhunt.co/
+Color palette
