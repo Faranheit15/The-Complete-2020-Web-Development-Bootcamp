@@ -1,3 +1,5 @@
+<a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/"><img src="https://img-a.udemycdn.com/course/750x422/1565838_e54e_11.jpg"></a>
+
  <strong>This repo is for sharing the progress of my Udemy "Training".</strong>
  
  I have selected 'The Complete 2020 Web Development Bootcamp' course. So, if you need any help with this or any other Web Development course, you can ask about it to me anytime you want to. If I am not available, feel free to post the query on this <a href="https://chat.whatsapp.com/DeTUWTzakOxG2dwepQGM57">WhatsApp forum</a> that I am a part of.
