@@ -6,3 +6,6 @@ Cropping images into circles
 
 3. https://colorhunt.co/
 Color palette
+
+4. https://emojipedia.org/
+Fetching emojis

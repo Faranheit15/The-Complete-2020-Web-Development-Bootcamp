@@ -1,0 +1,28 @@
+body {
+    background-color: #F7F7F7;
+}
+
+h1 {
+    color: blue;
+    font-size: 200px;
+}
+
+img:hover {
+    background-color: gold;
+}
+
+.biriyani {
+    background-color: green;
+}
+
+.broccoli {
+    background-color: red;
+}
+
+#heading {
+    color: blueviolet;
+}
+
+.circular {
+    border-radius: 100%;
+}
