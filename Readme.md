@@ -4,6 +4,8 @@
  
  I have selected 'The Complete 2020 Web Development Bootcamp' course. So, if you need any help with this or any other Web Development course, you can ask about it to me anytime you want to. If I am not available, feel free to post the query on this <a href="https://chat.whatsapp.com/DeTUWTzakOxG2dwepQGM57">WhatsApp forum</a> that I am a part of.
  
+ For seeing the projects that I had made in this course, here's <a href="https://the-complete-2020-web-development-bootcamp.netlify.app/">the site</a>.
+ 
  You can find the notes on this course on <a href="https://docs.google.com/document/d/1-3_P9Lf5_WeAt2zLvywBO9ALvV8WT7u45iwXQ9nIfOA/edit">this link</a>.
  
  Also, I'll be constantly updating the files on my <a href="https://github.com/Faranheit15/The-Complete-2020-Web-Development-Bootcamp">GitHub repository</a>. So, make sure to check it.
