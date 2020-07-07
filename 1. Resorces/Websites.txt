@@ -13,3 +13,6 @@ Fetching emojis
 5. https://www.favicon.cc/
 6. https://favicon.io/
 Generate favicon for websites
+
+7. https://www.cssfontstack.com/
+Fonts
