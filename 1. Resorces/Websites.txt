@@ -21,3 +21,9 @@ Fonts
 9. https://www.flaticon.com/
 10. https://giphy.com/
 Images and icons for website
+
+11. https://css3buttongenerator.com/
+Create buttons
+
+12. https://www.frontendmentor.io/
+Front-end challenges and get more practice with HTML and CSS
