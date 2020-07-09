@@ -6,11 +6,58 @@ body {
 
 h1 {
     font-family: 'Sacramento', cursive;
+    font-size: 562.5%;
+    margin: 50px auto 0 auto;
+    color: #66BFBF;
+    line-height: 2;
 }
 
 h2,
 h3 {
     font-family: 'Montserrat', sans-serif;
+}
+
+h2 {
+    font-size: 2.5rem;
+    color: #66BFBF;
+}
+
+h3 {
+    color: #11999E;
+}
+
+a {
+    color: #11999E;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.skill-img {
+    height: 100%;
+    width: 25%;
+    border-radius: 50%;
+}
+
+.mobile-img {
+    background-color: #e57373;
+    float: left;
+    margin-right: 30px;
+}
+
+.front-img {
+    background-color: #9575cd;
+    float: right;
+    margin-left: 30px;
+}
+
+.full-img {
+    float: right;
+    margin-left: 30px;
 }
 
 .top-container {
@@ -23,21 +70,9 @@ h3 {
     padding: 20px; */
 }
 
-.middle-container {
-    background-color: red;
-    height: 200px;
-    width: 200px;
-    /* border: solid 20px;
-    margin-left: 260px; */
-}
+.middle-container {}
 
-.bottom-container {
-    background-color: yellow;
-    height: 200px;
-    width: 200px;
-    /* border: solid 10px;
-    margin-left: 0px; */
-}
+.bottom-container {}
 
 .bottom-cloud {
     position: absolute;
@@ -49,4 +84,8 @@ h3 {
     position: absolute;
     right: 300px;
     top: 50px;
+}
+
+desc {
+    font-weight: normal;
 }

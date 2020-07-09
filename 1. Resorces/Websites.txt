@@ -15,4 +15,9 @@ Fetching emojis
 Generate favicon for websites
 
 7. https://www.cssfontstack.com/
+8. https://fonts.google.com/
 Fonts
+
+9. https://www.flaticon.com/
+10. https://giphy.com/
+Images and icons for website
