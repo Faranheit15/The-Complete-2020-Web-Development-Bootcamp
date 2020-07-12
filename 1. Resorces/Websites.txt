@@ -27,3 +27,13 @@ Create buttons
 
 12. https://www.frontendmentor.io/
 Front-end challenges and get more practice with HTML and CSS
+
+13. https://getbootstrap.com/docs/4.5/getting-started/introduction/
+Bootstrap
+
+14. https://dribbble.com/
+Designer portfolios
+
+15. https://sneakpeekit.com/
+16. https://balsamiq.com/wireframes/
+Design wireframe
