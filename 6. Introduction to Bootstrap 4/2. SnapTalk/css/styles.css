@@ -6,6 +6,10 @@
     font-family: 'Ubuntu', sans-serif;
 }
 
+.container-fluid {
+    padding: 3% 15%;
+}
+
 h1 {
     font-family: 'Montserrat', sans-serif;
     size: 3rem;
