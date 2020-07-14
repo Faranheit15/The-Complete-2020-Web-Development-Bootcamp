@@ -1,0 +1,13 @@
+#title {
+    background-color: #8A56AB;
+}
+
+.navbar-brand {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    size: 3rem;
+    line-height: 1.5;
+}
