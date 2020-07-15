@@ -82,3 +82,39 @@ p {
 .icon:hover {
     color: #8A56AB;
 }
+
+
+/* Testimonial Section */
+
+#testimonials {
+    text-align: center;
+    background-color: #8b56abc5;
+    color: #ffffff;
+}
+
+h2 {
+    font-size: 3rem;
+    line-height: 1.5;
+    font-weight: bold;
+}
+
+.testimonial-img {
+    width: 50%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+#press {
+    background-color: #8b56abc5;
+    text-align: center;
+    padding-bottom: 3%;
+}
+
+.press-logo {
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+
+.carousel-item {
+    padding: 7% 15%;
+}
