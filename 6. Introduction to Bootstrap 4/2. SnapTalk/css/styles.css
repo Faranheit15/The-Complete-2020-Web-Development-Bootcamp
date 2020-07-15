@@ -144,3 +144,27 @@ h2 {
         transform: rotate(0);
     }
 }
+
+
+/* Call to Action */
+
+#cta {
+    background-color: #8A56AB;
+    color: #ffffff;
+    text-align: center;
+    padding: 7% 15%;
+}
+
+#footer {
+    text-align: center;
+    padding: 7% 15%;
+}
+
+.social-icon {
+    margin: 20px 10px;
+}
+
+.cta-heading {
+    font-size: 3.5rem;
+    line-height: 1.5;
+}
