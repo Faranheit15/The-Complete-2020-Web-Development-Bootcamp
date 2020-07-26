@@ -13,4 +13,4 @@ function isLeap(year) {
         return "Not leap year.";
     }
 }
-isLeap(1948);
+console.log(isLeap(1998));
