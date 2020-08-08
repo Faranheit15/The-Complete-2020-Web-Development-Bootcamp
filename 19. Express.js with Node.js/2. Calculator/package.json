@@ -1,0 +1,14 @@
+{
+  "name": "2.-calculator",
+  "version": "1.0.0",
+  "description": "Calculator challenge",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Faran Mohammad",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
