@@ -1,15 +1,16 @@
 {
-  "name": "bmi-calculator",
-  "version": "1.0.0",
-  "description": "Backend-based BMI calculator",
-  "main": "bmi.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "Faran Mohammad",
-  "license": "ISC",
-  "dependencies": {
-    "body-parser": "^1.19.0",
-    "express": "^4.17.1"
-  }
+    "name": "bmi-calculator",
+    "version": "1.0.0",
+    "description": "Backend-based BMI calculator",
+    "main": "bmi.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node calculator.js"
+    },
+    "author": "Faran Mohammad",
+    "license": "ISC",
+    "dependencies": {
+        "body-parser": "^1.19.0",
+        "express": "^4.17.1"
+    }
 }

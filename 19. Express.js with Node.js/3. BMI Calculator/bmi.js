@@ -1,5 +1,6 @@
 const express = require("express");
 const bodyParser = require("body-parser");
+var PORT = process.env.PORT || 3000;
 
 const app = express();
 app.use(bodyParser.urlencoded({ extended: true }));
@@ -16,6 +17,6 @@ app.post("/", function(req, res) {
     res.send("Your BMI is " + result);
 })
 
-app.listen(3000, function() {
+app.listen(PORT, function() {
     console.log("Server started at port 3000!")
 })
