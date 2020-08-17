@@ -36,7 +36,7 @@ app.post("/", function(req, res) {
 
     const options = {
         method: "POST",
-        auth: "faranheit:388ac0b5d9dfd6f5654f23225896691e-us17"
+        auth: "faranheit:<API key>" //use your own key here
     }
 
     const request = https.request(url, options, function(response) {
