@@ -5,14 +5,26 @@ const PORT = process.env.PORT || 3000;
 
 const app = express();
 
+app.set('view engine', 'ejs');
+
 app.get("/", function(req, res) {
     var today = new Date();
-
-    if ((today.getDay() === 6) || (today.getDay() === 0)) {
-        res.send("<h1>Yaay! It's the weekend!</h1>");
-    } else {
-        res.sendFile(__dirname + "/index.html");
+    var currentDay = today.getDay();
+    var day = "";
+    if ((currentDay === 6) || (currentDay === 0)) {
+        day = "Weekend";
+    } else if (currentDay === 1) {
+        day = "Monday";
+    } else if (currentDay === 2) {
+        day = "Tuesday";
+    } else if (currentDay === 3) {
+        day = "Wednesday";
+    } else if (currentDay === 4) {
+        day = "Thursday";
+    } else if (currentDay === 5) {
+        day = "Friday";
     }
+    res.render("list", { kindOfDay: day });
 })
 
 app.listen(PORT, function() {
