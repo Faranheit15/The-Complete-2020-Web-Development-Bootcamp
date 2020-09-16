@@ -1,0 +1,14 @@
+{
+  "name": "fruits",
+  "version": "1.0.0",
+  "description": "Testing Native MongoDB driver with Node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Faran",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^3.6.2"
+  }
+}
