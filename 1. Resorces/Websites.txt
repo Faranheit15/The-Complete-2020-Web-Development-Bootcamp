@@ -1,0 +1,51 @@
+1. http://photobucket.com/
+For uploading photos that can be provided as the source to our img tag
+
+2. http://crop-circle.imageonline.co/
+Cropping images into circles
+
+3. https://colorhunt.co/
+Color palette
+
+4. https://emojipedia.org/
+Fetching emojis
+
+5. https://www.favicon.cc/
+6. https://favicon.io/
+Generate favicon for websites
+
+7. https://www.cssfontstack.com/
+8. https://fonts.google.com/
+Fonts
+
+9. https://www.flaticon.com/
+10. https://giphy.com/
+Images and icons for website
+
+11. https://css3buttongenerator.com/
+Create buttons
+
+12. https://www.frontendmentor.io/
+Front-end challenges and get more practice with HTML and CSS
+
+13. https://getbootstrap.com/docs/4.5/getting-started/introduction/
+Bootstrap
+
+14. https://dribbble.com/
+Designer portfolios
+
+15. https://sneakpeekit.com/
+16. https://balsamiq.com/wireframes/
+Design wireframe
+
+17. https://fontawesome.com/icons/
+Font awesome
+
+18. https://www.dailyui.co/
+For 100 Days of UI challenges
+
+19. https://www.canva.com/
+Designing
+
+20. https://www.learnenough.com/command-line-tutorial/
+Command Line Tutorial
